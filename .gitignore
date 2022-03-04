@@ -1,0 +1,5 @@
+# private sdtid files
+*.sdtid
+
+# Mac Files
+.DS_Store
